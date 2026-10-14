@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the annual leave allowance?",
+    "expected_source": "leave_policy.pdf",
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "question": "Who is eligible to apply?",
+    "expected_source": "hiring_guidelines.docx",
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "question": "What is the project budget?",
+    "expected_source": "project_notes.txt",
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "question": "What is the company's revenue in 2030?",
+    "expected_source": null,
+    "expected_behavior": "no_answer"
+  }
+]
